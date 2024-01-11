@@ -27,11 +27,11 @@ Sou técnico em Informática para Internet em formação
 #### Top Repositories
 
 
-<a href="https://github.com/Andremdrs77/Cadastro-de-Farmacia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andremdrs77&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="[https://github.com/Andremdrs77/Andremdrs77.github.io](https://github.com/Andremdrs77/Cadastro-de-Farmacia)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andremdrs77&repo=Andremdrs77.github.io&theme=buefy" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 
