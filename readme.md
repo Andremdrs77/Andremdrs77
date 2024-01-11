@@ -1,18 +1,18 @@
-<p align="center"><a href="https://Andremdrs77.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Sou técnico em Informática para Internet em formação
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 🔭 Atualmente, me fazendo e estudando no [IFRN/CA](https://github.com/Andremdrs77/Estudos-IF)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 🌱 Aprendendo **JavaScript, GitHub.**
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 💬 Fale comigo sobre **back-end**
 
-- 💬 Ask me about anything [here](https://github.com/Andremdrs77/Andremdrs77/issues)
+- 📫 Para falar comigo, **andre1998vv@gmail.com**
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
