@@ -14,7 +14,7 @@ Technical Trainee in Internet Computing
 
 - 🇧🇷 Brazilian, but with average english
 
-| <a href="https://github.com/Andremdrs77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andremdrs77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Andremdrs77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andremdrs77&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/Andremdrs77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andremdrs77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="André's github stats" /></a> | <a href="https://github.com/Andremdrs77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andremdrs77&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,github,figma&theme=dark)](https://skillicons.dev)
