@@ -6,13 +6,13 @@ Technical Trainee in Internet Computing
 
 - 🔭 Currently, I am working and studying at IFRN [IFRN/CA](https://github.com/Andremdrs77/Estudos-IF)
 
-- 🌱 Learning **JavaScript, GitHub (advanced).**
+- 🌱 Learning **Django, Flask.**
 
-- 💬 Talk with me about **back-end**
+- 💬 Talk with me about **back-end.**
 
-- 📫 To contact me, email **andre1998vv@gmail.com**
+- 📫 To contact me, email **andre1998vv@gmail.com.**
 
-- 🇧🇷 Brazilian, but with average english
+- 🇧🇷 Brazilian, but with average english.
 
 | <a href="https://github.com/Andremdrs77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andremdrs77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="André's github stats" /></a> | <a href="https://github.com/Andremdrs77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andremdrs77&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
