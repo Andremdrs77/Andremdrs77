@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="290px" alt="Hello! I'm André" src="gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/Andremdrs77"><img width="290px" alt="Hello! I'm André" src="gh-readme-header.png" /></a></p>
 
 Technical Trainee in Internet Computing
 
