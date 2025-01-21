@@ -6,7 +6,7 @@ Technical Trainee in Internet Computing
 
 - 🔭 Currently, I am working and studying at IFRN [IFRN/CA](https://github.com/Andremdrs77/Estudos-IF)
 
-- 🌱 Learning **Django, Flask.**
+- 🌱 Learning **Django, Flask and MySQL.**
 
 - 💬 Talk with me about **back-end.**
 
