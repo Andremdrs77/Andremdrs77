@@ -26,7 +26,7 @@ Technical Trainee in Internet Computing
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andremdrs77&repo=Projeto-Eventos-DesignWeb&theme=github_dark" />
 </a>
 <a href="https://github.com/Luckas10/Mais-Unidos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andremdrs77&repo=Mais-Unidos&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luckas10&repo=Mais-Unidos&theme=github_dark" />
 </a>
 
 
