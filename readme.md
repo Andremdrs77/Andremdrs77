@@ -25,9 +25,5 @@ Technical Trainee in Internet Computing
 <a href="https://github.com/Luckas10/Mais-Unidos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luckas10&repo=Mais-Unidos&theme=github_dark" />
 </a>
-<a href="https://github.com/charlon-156/Health-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlon-156&repo=Health-Web&theme=github_dark" />
-</a>
- 
 
 
