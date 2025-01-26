@@ -25,9 +25,9 @@ Technical Trainee in Internet Computing
 <a href="https://github.com/Luckas10/Mais-Unidos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luckas10&repo=Mais-Unidos&theme=github_dark" />
 </a>
-<a href="https://github.com/Renezin13/Nota1000-IA">
+<!-- <a href="https://github.com/Renezin13/Nota1000-IA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renezin13&repo=Nota1000-IA&theme=github_dark" />
 </a>
-
+ -->
 
 
