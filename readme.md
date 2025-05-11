@@ -20,7 +20,7 @@ Technical Trainee in Internet Computing
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,flask&theme=dark)](https://skillicons.dev)
 
 #### Other/Under development skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,figma,bootstrap,django,mysql,fastapi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,figma,bootstrap,django,mysql,sqlite3,reactjsfastapi&theme=dark)](https://skillicons.dev)
 
 #### Top Repositories
 
