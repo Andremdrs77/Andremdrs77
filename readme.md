@@ -26,4 +26,8 @@ Technical Trainee in Internet Computing
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luckas10&repo=Mais-Unidos&theme=github_dark" />
 </a>
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Luckas10}/count.svg" /></p> 
+<br>
+</div>
