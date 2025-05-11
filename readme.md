@@ -1,4 +1,4 @@
-<h1 style="color: blue">Hello, I'm André!</h1>
+<h1><b>Hello, I'm André!</b></h1>
 
 Technical Trainee in Internet Computing
 
