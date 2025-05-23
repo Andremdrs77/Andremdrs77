@@ -6,7 +6,7 @@ Technical Trainee in Internet Computing
 
 - 🔭 Currently, I am working and studying at IFRN [IFRN/CA](https://github.com/Andremdrs77/Estudos-IF)
 
-- 🌱 Learning **FastAPI and ReactJS.** Almost always improving in **Python 3 + Flask, HTML5, CSS3 and MySQL.**
+- 🌱 Learning **FastAPI and Vite + ReactJS.** Almost always improving in **Python 3 + Flask, HTML5, CSS3 and MySQL.**
 
 - 💬 Mostly interested in **back-end.**
 
