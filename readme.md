@@ -1,18 +1,16 @@
 <h1><b>Hello, I'm André!</b></h1>
 
-Technical Trainee in Internet Computing
+Technical Degree in Internet Computing and currently studying Systems Analysis and Development
 
 **About me**
 
-- 🔭 Currently, I am studying at IFRN - Campus Caicó
-
-- 🌱 Learning **FastAPI and Vite + ReactJS.** Almost always improving in **Python 3 + Flask, HTML5, CSS3 and MySQL.**
+- 🔭 Currently, I am studying at IFRN - Campus Natal Central
 
 - 💬 Mostly interested in **back-end.**
 
 - 📫 To contact me, email **andre1998vv@gmail.com.**
 
-- 🇧🇷 Brazilian, but with average/good english.
+- 🇧🇷 Brazilian
 
 | <a href="https://github.com/Andremdrs77"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andremdrs77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="André's github stats" /></a> | <a href="https://github.com/Andremdrs77"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andremdrs77&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
