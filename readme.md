@@ -22,7 +22,6 @@ Technical Degree in Internet Computing and currently studying Systems Analysis a
 
 #### Top Repositories
 
-
 <a href="https://github.com/Luckas10/Mais-Unidos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luckas10&repo=Mais-Unidos&theme=github_dark" />
 </a>
