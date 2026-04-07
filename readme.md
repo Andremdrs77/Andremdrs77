@@ -27,7 +27,7 @@ Technical Degree in Internet Computing and currently studying Systems Analysis a
 </a>
 
 <a href="https://github.com/Luckas10/SICAE">
-  <img align="center" src="https://andremdrs77.vercel.app/api/pin/?username=Luckas10&repo=SICAE&theme=github_dark" />
+  <img align="center" src="https://andremdrs77.vercel.app/api/pin/?username=Luckas10&repo=SICAE&theme=github_dark$description=none" />
 </a>
 
 <!-- <div align="center">
