@@ -26,8 +26,8 @@ Technical Degree in Internet Computing and currently studying Systems Analysis a
   <img align="center" src="https://andremdrs77.vercel.app/api/pin/?username=Luckas10&repo=Mais-Unidos&theme=github_dark" />
 </a>
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andremdrs77}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
