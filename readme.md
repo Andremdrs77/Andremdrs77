@@ -15,7 +15,7 @@ Technical Degree in Internet Computing and currently studying Systems Analysis a
 | <a href="https://github.com/Andremdrs77"><img align="center" src="https://andremdrs77.vercel.app/api?username=Andremdrs77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="André's github stats" /></a> | <a href="https://github.com/Andremdrs77"><img align="center" src="https://andremdrs77.vercel.app/api/top-langs/?username=Andremdrs77&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 #### Top Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c++,html,css,flask&theme=dark)](https://skillicons.dev)
 
 #### Other/Under development skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,figma,bootstrap,django,mysql,sqlite,react,fastapi&theme=dark)](https://skillicons.dev)
